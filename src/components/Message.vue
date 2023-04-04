@@ -1,27 +1,26 @@
 <template>
-    <div class="message-container">
-        <p>{{ msg }}</p>
-        
-    </div>
+  <div class="message-container">
+    <p>{{ msg }}</p>
+  </div>
 </template>
 
 <script>
-export default {
+  export default {
     name: "Message",
     props: {
-        msg: String
+      msg: String
     }
-}
+  }
 </script>
 
 <style scoped>
- .message-container {
+  .message-container {
     color: #004085;
-    background-color: #CCE5FF;
-    border: 2px solid #B8DAFF;
+    background-color: #cce5ff;
+    border: 2px solid #b8daff;
     border-radius: 5px;
     padding: 10px;
     max-width: 400px;
     margin: 30px auto;
- }
+  }
 </style>
