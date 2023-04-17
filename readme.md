@@ -1,6 +1,5 @@
 # Make Your Burger
 
-
 #### Gif
 <img src="src/assets/MakeYourBurger.gif">
 
