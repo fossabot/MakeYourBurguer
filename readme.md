@@ -1,6 +1,8 @@
-See [Make_your_burger ](https://main--clever-elf-a72bd8.netlify.app/)
+# Make Your Burger
 
-# make_your_burguer
+
+#### Gif
+<img src="src/assets/MakeYourBurger.gif">
 
 ## Project setup
 ```
